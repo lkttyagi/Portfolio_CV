@@ -46,19 +46,24 @@ text-decoration:none;
   text-decoration:none;
 
 }
+ul#contact
+{
+  margin-top:100px;
+}
 ul#contact li 
 { width:100%;
   background:#ffffff;
   border-bottom:0px solid #ffffff;
-  display:inline;
-  margin-top:200px;
+  display:block;
+  margin-top:0px;
+  padding-top:-10px;
 }
 ul#contact a:hover
 {
   background:#ffffff;
+  color:#3c948b;
 }
-footer {
-    position: fixed;
+/*    position: fixed;
     height: 100px;
     bottom: 0;
     width: 100%;
@@ -67,14 +72,9 @@ footer {
     border:2px solid #e1e1e1;
     height:50px;
     width:100%;
-}
-ul#footer li
+}*/
+ul#contact li i
 {
-  display:inline;
-  margin-left:50%;
+  font-size:2em;
 }
-.contact
-{
-  float:center;
-  display:inline;
-}
+
