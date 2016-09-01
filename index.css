@@ -77,4 +77,47 @@ ul#contact li i
 {
   font-size:2em;
 }
+.image
+{
+  margin-left:85px;
+  width:93.7%;
+  height:100%;
+  
+}
+.image img
+{
+  width:100%;
+  height:100%;
+}
+.cv
+{
+  background:transparent;
+  margin-top:-360px;
+  margin-left:700px;
+ 
+
+}
+.cv h1
+{
+  color:white;
+  font-family:Lobster;
+  font-size:3em;
+}
+button
+{
+  margin-left:-260px;
+  background-color:transparent;
+  font-size:2em;
+  width: 400px;
+  margin-top:20px;
+  
+  font-family:;
+}
+.cv a
+{
+  font-family:Lobster;
+  color:#ffffff;
+  
+
+}
 
